@@ -7,5 +7,5 @@ This repository contains various Excel files that I've created to practice and e
     
 
 
-2. Boolean Expression Evaluator:
-    - The Boolean Expression Evaluator Excel file assists in evaluating Boolean expressions. You can input different combinations of true/false values and operators to observe the outcomes of the expressions.
+2. Boolean Expression Combinations Evaluator:
+    - This Excel file is a powerful tool for evaluating Boolean expressions and generating all possible combinations of true/false values for the given conditions. Simply input the conditions and operators, and the file will automatically compute and display the combinations.
